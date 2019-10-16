@@ -5,105 +5,107 @@
 body {
     margin : 0;
     text-align: center;
-    font-family: 'Montserrat', sans-serif; 
-    color: #40515e;     
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #020300;
 }
+
 h1{
     font-size: 90px;
-    font-family: 'Times New Roman', cursive;
+    font-family: 'Raleway', sans-serif;
     margin-top: 50px auto 0 auto ;
     margin-bottom: 0;
-    color: #E74C3C
+    color: #134074;
 }
 
 h2{
-    font-family: 'Merriweather', serif;
+    font-family: 'Mansalva', cursive;
     color: #5DADE2;
+    font-size: 3rem;
     padding-bottom: 10px;
 }
 
 h3{
-    color: #A569BD;
-    font-family: 'Montserrat', sans-serif;
+    color: #6dc1cf;
+    font-family: 'Indie Flower', cursive;
 }
 
-div {
-    background-color : #e4f9f5;
+.profile {
+  margin-left: 15.0rem;
+  margin-right: 15.0rem;
+  border-radius: 15px;
+  padding: 10px;
+  padding-top: 25px;
+  background: #2d2e2e;
 }
 
 .bottom-cloud{
-     
+
      position : absolute;
      width: 100px;
 }
 
 .bio{
-
-    width: 30%;
-   margin: auto;
-   line-height: 2;
-   padding: 20px;
-}
-.bio1{
-    width:30%;
+    width: 75%;
+    text-align: justify;
     margin: auto;
+    color: #fafaff;
     line-height: 2;
+    padding: 20px;
 }
 
-.bio2{
-
-    width: 30%;
-    margin: auto;
-    line-height: 2;
-}
-.bio3{
-
-    width: 30%;
-    margin: auto;
-    line-height: 2;
-}
 img {
     background-color: #e4f9f5;
     width : 200px;
     border-radius: 15px;
 }
-.top-cloud{
 
-    width : 100px;
-    
+.top-cloud{
+    width : 200px;
+    height: 200px;
+    word-wrap: break-word;
+    margin-bottom: -60px;
 }
 
 .top-container{
-
     margin-bottom: 0;
 }
 .middle-container{
     margin-top: 0;
-    
 }
 
 #first-para{
     margin-bottom: 0px;
+    margin-top: -15px;
     font-size: 2.5rem;
     padding-bottom: 45px;
-    font-weight: normal;
-    color: #66BFBF;
+    font-weight: bolder;
+    color: #30B9BA;
 }
 
 .pro{
-
     text-decoration: underline;
 }
 
 .skill-row{
-
-    margin: 100px auto 100px auto;
+  color: #fafaff;
+  border-radius: 15px;
+  background-color: #2d2e2e;
+  padding: 10px;
+  padding-top: 25px;
+  margin-left: 15.0rem;
+  margin-right: 15.0rem;
+  margin-top: 50px;
+  margin-bottom: 50px;
     width: 50;
 }
 .bottom-container{
-
-    padding-top: 70px;
-    background-color: #66BFBF;
+    padding-top: 60px;
+    background-color: #447ce7;
+    margin-left: 50.0rem;
+    margin-right: 50.0rem;
+    border-radius: 10px;
 }
 
 hr{
@@ -112,17 +114,21 @@ hr{
     width: 5%;
     margin: 100px auto;
 }
+
 .contact{
     padding-bottom: 40px;
+    color: #fafaff;
+    font-family: 'Indie Flower', cursive;
+    font-size: 18px;
 }
 
 .btn {
-    background: #3498db;
-    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
-    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
-    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
-    background-image: -o-linear-gradient(top, #3498db, #2980b9);
-    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    background: #134074;
+    background-image: -webkit-linear-gradient(top, #134074, #2980b9);
+    background-image: -moz-linear-gradient(top, #134074, #2980b9);
+    background-image: -ms-linear-gradient(top, #134074, #2980b9);
+    background-image: -o-linear-gradient(top, #134074, #2980b9);
+    background-image: linear-gradient(to bottom, #134074, #2980b9);
     -webkit-border-radius: 17;
     -moz-border-radius: 17;
     border-radius: 17px;
@@ -131,19 +137,17 @@ hr{
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
-    margin-bottom: 45px;
+    margin-bottom: 35px;
   }
-  
+
   .btn:hover {
-    background: #3cb0fd;
-    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
-    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
-    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
-    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
-    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    background: #285181;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #285181);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #285181);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #285181);
+    background-image: -o-linear-gradient(top, #3cb0fd, #285181);
+    background-image: linear-gradient(to bottom, #3cb0fd, #285181);
     text-decoration: none;
-
-
   }
 
   .icon {
@@ -181,26 +185,24 @@ nav ul li  {
 
 #zoom {
     padding: 0px;
-    transition: transform .2s; 
+    transition: transform .2s;
     width: 25px;
     height: 25px;
     margin: auto;
 }
 
 #zoom:hover {
-    transform: scale(1.3); 
-}
-
-#zoom img:hover {
-    transform: scale(1.3); 
+  transform: scale(1.3);
 }
 
 @media only screen and (max-width: 768px){
-    .bio, .bio1, .bio2, .bio3{
-        width: 100%;
-    }
-    .middle-container{
-        padding-left: 16px;
-        padding-right: 16px;
-    }
+.bio {
+  width: 100%;
 }
+.middle-container{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+
+
