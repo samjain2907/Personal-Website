@@ -10,5 +10,5 @@ Any addition or changes to it are very much appreciated!
 
 You are welocme to introduce even very basic changes to it.
 You can also create new issues and start working on it.
-
+It would be beneficial for someone who has not yet introduced to using git and github. If you have solved some issues earlier try to leave it for someone who is entirely a beginner.
 Thanks!
