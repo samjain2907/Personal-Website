@@ -10,20 +10,20 @@ body {
 }
 h1{
     font-size: 90px;
-    font-family: 'Sacramento', cursive;
+    font-family: 'Times New Roman', cursive;
     margin-top: 50px auto 0 auto ;
     margin-bottom: 0;
-    color: #66BFBF
+    color: #E74C3C
 }
 
 h2{
     font-family: 'Merriweather', serif;
-    color: #66BFBF;
+    color: #5DADE2;
     padding-bottom: 10px;
 }
 
 h3{
-    color: #11999E;
+    color: #A569BD;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -152,6 +152,21 @@ hr{
     border-radius: unset;
 }
 
+#zoom {
+    padding: 0px;
+    transition: transform .2s; 
+    width: 25px;
+    height: 25px;
+    margin: auto;
+}
+
+#zoom:hover {
+    transform: scale(1.3); 
+}
+
+#zoom img:hover {
+    transform: scale(1.3); 
+}
 
 @media only screen and (max-width: 768px){
     .bio, .bio1, .bio2, .bio3{
