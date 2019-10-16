@@ -147,3 +147,19 @@ hr{
     width : unset;
     border-radius: unset;
 }
+
+#zoom {
+    padding: 0px;
+    transition: transform .2s; 
+    width: 25px;
+    height: 25px;
+    margin: auto;
+}
+
+#zoom:hover {
+    transform: scale(1.3); 
+}
+
+#zoom img:hover {
+    transform: scale(1.3); 
+}
