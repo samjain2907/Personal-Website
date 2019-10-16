@@ -66,6 +66,7 @@ img {
     height: 200px;
     word-wrap: break-word;
     margin-bottom: -60px;
+    padding: 2em;
 }
 
 .top-container{
