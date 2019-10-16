@@ -1,3 +1,7 @@
+*, ::after, ::before{
+    box-sizing: border-box;
+}
+
 body {
     margin : 0;
     text-align: center;
@@ -152,6 +156,33 @@ hr{
     border-radius: unset;
 }
 
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+header nav ul li a {
+    dispaly: block;
+    color:#fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 20px;
+    border-left: solid 1px #333; 
+}
+ header nav ul li a:hover {
+     background:  #222;
+ } 
+ 
+ header nav ul li a:active {
+     -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0,) insert;
+     -moz-box-shadow:0 0 5px rgba(0, 0, 0, 0,) insert;
+     box-shadow:0 0 5px rgba(0, 0, 0, 0,) insert;
+ }
+
+nav ul li  {
+    list-style: none;
+
 #zoom {
     padding: 0px;
     transition: transform .2s;
@@ -172,8 +203,6 @@ hr{
   padding-left: 16px;
   padding-right: 16px;
 }
-}
 
-#zoom img:hover {
-    transform: scale(1.3);
-}
+
+
