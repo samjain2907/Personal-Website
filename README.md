@@ -1,4 +1,5 @@
 # Personal-Website
+
 I have created a website which would be regularly updated.
 The main purpose is to try and test new things into this website to make it look more beautiful.
 It would act as a great testing ground for newcomers looking to get themselves introduced into the world of open source.
@@ -15,4 +16,5 @@ It would be beneficial for someone who is not yet introduced to using git and gi
 Thanks!
 
 Any one can join from beginners to experts lets create an amazing website together. 
+
 
