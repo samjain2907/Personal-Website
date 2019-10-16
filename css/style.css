@@ -1,3 +1,7 @@
+*, ::after, ::before{
+    box-sizing: border-box;
+}
+
 body {
     margin : 0;
     text-align: center;
@@ -146,4 +150,15 @@ hr{
     background-color: unset;
     width : unset;
     border-radius: unset;
+}
+
+
+@media only screen and (max-width: 768px){
+    .bio, .bio1, .bio2, .bio3{
+        width: 100%;
+    }
+    .middle-container{
+        padding-left: 16px;
+        padding-right: 16px;
+    }
 }
