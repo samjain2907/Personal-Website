@@ -141,3 +141,9 @@ hr{
 
 
   }
+
+  .icon {
+    background-color: unset;
+    width : unset;
+    border-radius: unset;
+}
