@@ -15,6 +15,6 @@ You can also create new issues and start working on it.
 It would be beneficial for someone who is not yet introduced to using git and github. If you have solved some issues earlier try to leave it for someone who is entirely a beginner.
 Thanks!
 
-Any one can join from beginners to experts lets create an amazing website together. 
+
 
 
