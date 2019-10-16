@@ -161,7 +161,17 @@ hr{
 }
 
 #zoom:hover {
-    transform: scale(1.3);
+  transform: scale(1.3);
+}
+
+@media only screen and (max-width: 768px){
+.bio {
+  width: 100%;
+}
+.middle-container{
+  padding-left: 16px;
+  padding-right: 16px;
+}
 }
 
 #zoom img:hover {
