@@ -17,4 +17,10 @@ Thanks!
 
 
 
+Instructions :-
 
+1.Fork this repository.
+
+2.Make some good changes to it.
+
+3.Then make a direct pull request with adding screenshot of new changes.
