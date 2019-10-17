@@ -59,6 +59,7 @@ img {
     background-color: #e4f9f5;
     width : 200px;
     border-radius: 15px;
+    margin-left: 90px;
 }
 
 .top-cloud{
@@ -82,7 +83,10 @@ img {
     padding-bottom: 45px;
     font-weight: bolder;
     color: #30B9BA;
+    display: inline-block;
+    background-color: yellow;
 }
+
 
 .pro{
     text-decoration: underline;
