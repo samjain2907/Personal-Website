@@ -1,5 +1,20 @@
 body {
-    margin : 0;
+    margin: 0;
+    padding: 0;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    background-color : #808080;
+}
+.topnavi{
+    height: 50px;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #333;
+}
+.topnavi a {
+    float: right;
+    color: white;
+    font-size: 18px;
     text-align: center;
     padding: 13px;
     text-decoration: none;
