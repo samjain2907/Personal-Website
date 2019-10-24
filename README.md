@@ -15,6 +15,12 @@ You can also create new issues and start working on it.
 It would be beneficial for someone who is not yet introduced to using git and github. If you have solved some issues earlier try to leave it for someone who is entirely a beginner.
 Thanks!
 
+Link to the website: [https://samjain2907.github.io/Personal-Website](https://samjain2907.github.io/Personal-Website)
 
+Instructions :-
 
+1.Fork this repository.
 
+2.Make some good changes to it.
+
+3.Then make a direct pull request with adding screenshot of new changes.
