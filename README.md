@@ -15,7 +15,6 @@ You can also create new issues and start working on it.
 It would be beneficial for someone who is not yet introduced to using git and GitHub. If you have solved some issues earlier try to leave it for someone who is entirely a beginner.
 Thanks!
 
-Link to the website: [https://samjain2907.github.io/Personal-Website](https://samjain2907.github.io/Personal-Website)
 
 Instructions:-
 
