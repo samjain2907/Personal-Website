@@ -1,11 +1,11 @@
 # Personal-Website
 
-I have created a website which would be regularly updated.
+I have created a website that would be regularly updated.
 The main purpose is to try and test new things into this website to make it look more beautiful.
 It would act as a great testing ground for newcomers looking to get themselves introduced into the world of open source.
 Newcomers can come and contribute to this website and get their hands dirty on it. It would help them to get acquainted with the workflow followed in any open source project.
 It is currently built entirely using HTML and CSS.
-Further technologies like bootstrap, javascript, jQuery and reactjs would be added to it to make it more functional and interactive.
+Further technologies like bootstrap, javascript, jQuery, and, reactjs would be added to it to make it more functional and interactive.
 Any addition or changes to it are very much appreciated! 
 
 
@@ -22,4 +22,4 @@ Instructions:-
 
 2. Make some good changes to it.
 
-3. Then make a direct pull request with adding a screenshot of new changes.
+3. Then make a direct pull request by adding a screenshot of new changes.
