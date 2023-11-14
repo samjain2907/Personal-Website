@@ -224,6 +224,12 @@ hr {
 	background-color: #66BFBF;
 }
 
+.contact-icons {
+	position: relative;
+	bottom: 0;
+	right: 0;
+  }
+
 #zoom {
 	padding: 5px;
 	transition: transform .2s;
